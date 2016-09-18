@@ -20,5 +20,6 @@ public class Test01 {
 		System.out.println("活下去才是才是硬道理~");
 		System.out.println("say say easy do do hard!");
 		System.out.println("work hard,every day!");
+		System.out.println("准备睡觉");
 	}
 }
