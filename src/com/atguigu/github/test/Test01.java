@@ -3,7 +3,7 @@ package com.atguigu.github.test;
 /**
  * 
  * @author salvinlee
- * date 
+ * date
  *
  */
 public class Test01 {
