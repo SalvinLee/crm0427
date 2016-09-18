@@ -3,7 +3,7 @@ package com.atguigu.github.test;
 /**
  * 
  * @author salvinlee
- * 
+ * date 
  *
  */
 public class Test01 {
@@ -18,5 +18,6 @@ public class Test01 {
 		System.out.println("三年");
 		System.out.println("25k+15");
 		System.out.println("活下去才是才是硬道理~");
+		System.out.println("work hard,every day!");
 	}
 }
