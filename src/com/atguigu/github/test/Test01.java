@@ -14,5 +14,7 @@ public class Test01 {
 		System.out.println("hello github 服务器2");
 		System.out.println("12K");
 		System.out.println("哦了");
+		System.out.println("三年");
+		System.out.println("25k+15");
 	}
 }
