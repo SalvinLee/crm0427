@@ -14,6 +14,6 @@ public class Test01 {
 		System.out.println("hello salvinlee");
 		System.out.println("hello github 服务器2");
 		System.out.println("12K");
-		System.out.println(哦了~");
+		System.out.println("哦了");
 	}
 }
