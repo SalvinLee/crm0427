@@ -25,7 +25,7 @@ public class Test01 {
 
 		//===========================
 
-		System.out.println("新增的123213444");
+		System.out.println("新增的000000000000000000000000");
 
 
 
