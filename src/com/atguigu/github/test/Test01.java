@@ -22,5 +22,17 @@ public class Test01 {
 		System.out.println("work hard,every day!");
 		System.out.println("起床工作");
 		System.out.println("准备睡觉");
+
+		//===========================
+
+		System.out.println("新增的");
+		System.out.println("新增的");
+		System.out.println("新增的");System.out.println("新增的");
+		System.out.println("新增的");System.out.println("新增的");System.out.println("新增的");System.out.println("新增的");System.out.println("新增的");
+
+
+
+
+
 	}
 }
