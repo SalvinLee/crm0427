@@ -26,13 +26,7 @@ public class Test01 {
 		//===========================
 
 		System.out.println("新增的");
-		System.out.println("新增的");
-		System.out.println("新增的");System.out.println("新增的");
-		System.out.println("新增的");System.out.println("新增的");
-		;System.out.println("新增的");System.out.println("新增的");System.out.println("新增的");
-		;System.out.println("新增的");System.out.println("新增的");System.out.println("新增的");
-		;System.out.println("新增的");System.out.println("新增的");System.out.println("新增的");
-		;System.out.println("新增的");System.out.println("新增的");System.out.println("新增的");
+
 
 
 
